@@ -2,191 +2,191 @@
 <resources>
 <item
 component=" com.android.settings/.Settings"
-drawable="TODO"/>
+drawable="settings"/>
 <item
 component=" com.android.vending/.AssetBrowserActivity"
-drawable="TODO"/>
+drawable="play_store"/>
 <item
 component=" com.google.android.GoogleCamera/com.android.camera.CameraLauncher"
-drawable="TODO"/>
+drawable="camera"/>
 <item
 component=" com.google.android.apps.messaging/.ui.ConversationListActivity"
-drawable="TODO"/>
+drawable="messages"/>
 <item
 component=" com.google.android.apps.photos/.home.HomeActivity"
-drawable="TODO"/>
+drawable="photos"/>
 <item
 component=" com.google.android.calculator/com.android.calculator2.Calculator"
-drawable="TODO"/>
+drawable="calculator"/>
 <item
 component=" com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
-drawable="TODO"/>
+drawable="contacts"/>
 <item
 component=" com.google.android.deskclock/com.android.deskclock.DeskClock"
-drawable="TODO"/>
+drawable="clock"/>
 <item
 component=" com.google.android.dialer/.extensions.GoogleDialtactsActivity"
-drawable="TODO"/>
+drawable="phone"/>
 <item
 component=" com.aurora.store/.ComposeActivity"
-drawable="TODO"/>
+drawable="aurora_store"/>
 <item
 component=" com.dot.gallery/.Launcher_Gallery_GalleryLogo"
-drawable="TODO"/>
+drawable="gallery"/>
 <item
 component=" com.wmods.wppenhacer/.activities.MainActivity"
-drawable="TODO"/>
+drawable="___wa_enhancer"/>
 <item
 component=" cz.csas.georgego/at.beeone.george.app.splashscreen.SplashScreenVariantDefault"
-drawable="TODO"/>
+drawable="george"/>
 <item
 component=" cz.tesco.clubcard/com.tesco.clubcard.activity.main.MainActivity"
-drawable="TODO"/>
+drawable="clubcard_tesco"/>
 <item
 component=" io.github.muntashirakon.AppManager/.main.SplashActivity"
-drawable="TODO"/>
+drawable="app_manager"/>
 <item
 component=" org.kustom.widget/.picker.WidgetPicker"
-drawable="TODO"/>
+drawable="kustom"/>
 <item
 component=" rk.android.app.pixelsearch/.activities.HomeActivity"
-drawable="TODO"/>
+drawable="pixel_search"/>
 <item
 component=" com.android.stk/.StkMain"
-drawable="TODO"/>
+drawable="___sim_manager"/>
 <item
 component=" ai.perplexity.app.android/.ui.main.MainActivity"
-drawable="TODO"/>
+drawable="perplexity"/>
 <item
 component=" app.alextran.immich/.MainActivity"
-drawable="TODO"/>
+drawable="immich"/>
 <item
 component=" at.bitfire.davdroid/.ui.AccountsActivity"
-drawable="TODO"/>
+drawable="___da__vx5"/>
 <item
 component=" com.bootiq2.gtsisic/app.futured.aliveapp.AppActivity"
-drawable="TODO"/>
+drawable="alive__app"/>
 <item
 component=" com.deepl.mobiletranslator/.MainActivity"
-drawable="TODO"/>
+drawable="deep__l"/>
 <item
 component=" com.discord/.main.MainDefault"
-drawable="TODO"/>
+drawable="discord"/>
 <item
 component=" com.drdisagree.pixellauncherenhanced/.ui.activities.SplashActivity"
-drawable="TODO"/>
+drawable="p__l__enhanced"/>
 <item
 component=" com.f0x1d.logfox/.presentation.ui.activity.MainActivity"
-drawable="TODO"/>
+drawable="log__fox"/>
 <item
 component=" com.imaginecurve.curve.prd/com.curve.startup.launch.LaunchActivity"
 drawable="TODO"/>
 <item
 component=" com.instagram.android/.activity.MainTabActivity"
-drawable="TODO"/>
+drawable="instagram"/>
 <item
 component=" com.lidl.eci.lidlplus/es.lidlplus.i18n.StandardLauncher"
-drawable="TODO"/>
+drawable="lidl_plus"/>
 <item
 component=" com.looker.droidify/.MainActivity"
-drawable="TODO"/>
+drawable="droidify"/>
 <item
 component=" com.microsoft.teams/com.microsoft.skype.teams.Launcher"
-drawable="TODO"/>
+drawable="teams"/>
 <item
 component=" com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"
-drawable="TODO"/>
+drawable="snapseed"/>
 <item
 component=" com.phonewalls.stockwallpapers/.SplashActivity"
-drawable="TODO"/>
+drawable="phone__walls"/>
 <item
 component=" com.readdle.spark/.app.MainActivity"
-drawable="TODO"/>
+drawable="spark"/>
 <item
 component=" com.richardluo.globalIconPack/.ui.MainActivity"
-drawable="TODO"/>
+drawable="global_icon_pack"/>
 <item
 component=" com.sameerasw.essentials/.MainActivity"
-drawable="TODO"/>
+drawable="mod"/>
 <item
 component=" com.tailscale.ipn/.MainActivity"
-drawable="TODO"/>
+drawable="tailscale"/>
 <item
 component=" com.termux/.app.TermuxActivity"
-drawable="TODO"/>
+drawable="termux"/>
 <item
 component=" com.whatsapp/.Main"
-drawable="TODO"/>
+drawable="whats__app"/>
 <item
 component=" com.x8bit.bitwarden/.MainActivity"
-drawable="TODO"/>
+drawable="bitwarden"/>
 <item
 component=" cz.albert.app/cz.creativedock.albert.MainActivity"
-drawable="TODO"/>
+drawable="muj_albert"/>
 <item
 component=" cz.dpp.praguepublictransport/.activities.GuideActivity"
-drawable="TODO"/>
+drawable="___pid_litacka"/>
 <item
 component=" cz.mafra.jizdnirady/.activity.SplashActivity"
-drawable="TODO"/>
+drawable="___idos"/>
 <item
 component=" cz.seznam.mapy/.FreemiumActivity"
-drawable="TODO"/>
+drawable="mapy"/>
 <item
 component=" cz.skolaonline.mobile/.MainActivity"
-drawable="TODO"/>
+drawable="skola__online"/>
 <item
 component=" de.jeanlucmakiola.calendula/.CalendarNameAlias"
-drawable="TODO"/>
+drawable="calendar"/>
 <item
 component=" dev.dettmer.simplenotes/.ui.main.ComposeMainActivity"
-drawable="TODO"/>
+drawable="notes"/>
 <item
 component=" dev.renkinProject.renkin/.MainActivity"
-drawable="TODO"/>
+drawable="iconpack"/>
 <item
 component=" dev.renkinProject.renkinpack.p2/dev.renkinProject.renkinpack.MainActivity"
-drawable="TODO"/>
+drawable="iconpack"/>
 <item
 component=" dev.renkinProject.renkinpack.p3/dev.renkinProject.renkinpack.MainActivity"
-drawable="TODO"/>
+drawable="iconpack"/>
 <item
 component=" im.molly.app/org.thoughtcrime.securesms.RoutingActivity"
-drawable="TODO"/>
+drawable="molly"/>
 <item
 component=" io.materialdesign.catalog/.main.MainActivity"
-drawable="TODO"/>
+drawable="material_components"/>
 <item
 component=" jp.ne.ibis.ibispaintx.app/.InitializeCheckActivity"
-drawable="TODO"/>
+drawable="ibis__paint_x"/>
 <item
 component=" me.weishu.kernelsu/.ui.MainActivity"
-drawable="TODO"/>
+drawable="kernel__s__u"/>
 <item
 component=" me.zhanghai.android.files/.filelist.FileListActivity"
-drawable="TODO"/>
+drawable="material_files"/>
 <item
 component=" org.frknkrc44.hma_oss/.MainActivityLauncher"
-drawable="TODO"/>
+drawable="mod"/>
 <item
 component=" org.lsposed.corepatch/.LauncherAlias"
-drawable="TODO"/>
+drawable="mod"/>
 <item
 component=" org.mozilla.firefox/.App"
-drawable="TODO"/>
+drawable="firefox"/>
 <item
 component=" org.tasks/com.todoroo.astrid.activity.TaskListActivity"
-drawable="TODO"/>
+drawable="tasks"/>
 <item
 component=" org.telegram.messenger.web/org.telegram.messenger.DefaultIcon"
-drawable="TODO"/>
+drawable="telegram"/>
 <item
 component=" org.wikipedia/.DefaultIcon"
-drawable="TODO"/>
+drawable="wikipedia"/>
 <item
 component=" ru.scadwfql.rchgnysyz/.MainActivity1"
-drawable="TODO"/>
+drawable="lck"/>
 <item
 component=" su.ronicon/.MainActivity"
-drawable="TODO"/>
+drawable="iconpack"/>
 </resources>

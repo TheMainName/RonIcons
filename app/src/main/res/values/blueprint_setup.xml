@@ -3,7 +3,7 @@
     <!--
         app name and version in the drawer header
     -->
-    <bool name="with_drawer_texts">true</bool>
+    <bool name="with_drawer_texts">false</bool>
 
     <!--
         Show a custom image as placeholder while loading icons
@@ -21,7 +21,7 @@
     <bool name="static_icons_preview_picture_by_default">false</bool>
 
     <bool name="sort_icons_alphabetically">true</bool>
-    <bool name="icon_name_in_grid_list">true</bool>
+    <bool name="icon_name_in_grid_list">false</bool>
     <bool name="xml_drawable_enabled">true</bool>
     <bool name="includes_adaptive_icons">true</bool>
 
