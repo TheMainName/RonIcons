@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string-array name="all">
+        <item>davx5</item>
+    </string-array>
+</resources>
