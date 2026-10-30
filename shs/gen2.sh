@@ -14,11 +14,11 @@ EOF
 
 while IFS= read -r line || [[ -n "$line" ]]; do
 
-echo '<item'>>appfilter.xml
+echo '<item'>> appfilter.xml
 echo 'component="'$line'"' >> appfilter.xml
 echo 'drawable="TODO"/>' >> appfilter.xml
 
-echo  '<item class="'$line ' name="TODO"/>' >> appmap.xml
+echo  '<item class="'$line ' name="fillin"/>' >> appmap.xml
 
 done < info.txt
 

@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <appmap>
-
-    <item
-        class="at.bitfire.davdroid.ui.AccountsActivity"
-        name="davx5" />
-
+    <item name="fillin" class=" com.android.settings/.Settings " />
+    <item name="fillin" class=" com.android.vending/.AssetBrowserActivity " />
+    <item name="fillin"
+        class=" com.google.android.GoogleCamera/com.android.camera.CameraLauncher " />
+    <item name="fillin" class=" com.google.android.apps.messaging/.ui.ConversationListActivity " />
+    <item name="fillin" class=" com.google.android.apps.photos/.home.HomeActivity " />
+    <item name="fillin"
+        class=" com.google.android.calculator/com.android.calculator2.Calculator " />
+    <item name="fillin"
+        class=" com.google.android.contacts/com.android.contacts.activities.PeopleActivity " />
+    <item name="fillin" class=" com.google.android.deskclock/com.android.deskclock.DeskClock " />
+    <item name="fillin" class=" com.google.android.dialer/.extensions.GoogleDialtactsActivity " />
+    <item name="fillin" class=" com.aurora.store/.ComposeActivity " />
+    <item name="fillin" class=" com.dot.gallery/.Launcher_Gallery_GalleryLogo " />
+    <item name="fillin" class=" com.wmods.wppenhacer/.activities.MainActivity " />
+    <item name="fillin"
+        class=" cz.csas.georgego/at.beeone.george.app.splashscreen.SplashScreenVariantDefault " />
+    <item name="fillin" class=" cz.tesco.clubcard/com.tesco.clubcard.activity.main.MainActivity " />
+    <item name="fillin" class=" io.github.muntashirakon.AppManager/.main.SplashActivity " />
+    <item name="fillin" class=" org.kustom.widget/.picker.WidgetPicker " />
+    <item name="fillin" class=" rk.android.app.pixelsearch/.activities.HomeActivity " />
+    <item name="fillin" class=" com.android.stk/.StkMain " />
+    <item name="fillin" class=" ai.perplexity.app.android/.ui.main.MainActivity " />
+    <item name="fillin" class=" app.alextran.immich/.MainActivity " />
+    <item name="fillin" class=" at.bitfire.davdroid/.ui.AccountsActivity " />
+    <item name="fillin" class=" com.bootiq2.gtsisic/app.futured.aliveapp.AppActivity " />
+    <item name="fillin" class=" com.deepl.mobiletranslator/.MainActivity " />
+    <item name="fillin" class=" com.discord/.main.MainDefault " />
+    <item name="fillin"
+        class=" com.drdisagree.pixellauncherenhanced/.ui.activities.SplashActivity " />
+    <item name="fillin" class=" com.f0x1d.logfox/.presentation.ui.activity.MainActivity " />
+    <item name="fillin"
+        class=" com.imaginecurve.curve.prd/com.curve.startup.launch.LaunchActivity " />
+    <item name="fillin" class=" com.instagram.android/.activity.MainTabActivity " />
+    <item name="fillin" class=" com.lidl.eci.lidlplus/es.lidlplus.i18n.StandardLauncher " />
+    <item name="fillin" class=" com.looker.droidify/.MainActivity " />
+    <item name="fillin" class=" com.microsoft.teams/com.microsoft.skype.teams.Launcher " />
+    <item name="fillin"
+        class=" com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity " />
+    <item name="fillin" class=" com.phonewalls.stockwallpapers/.SplashActivity " />
+    <item name="fillin" class=" com.readdle.spark/.app.MainActivity " />
+    <item name="fillin" class=" com.richardluo.globalIconPack/.ui.MainActivity " />
+    <item name="fillin" class=" com.sameerasw.essentials/.MainActivity " />
+    <item name="fillin" class=" com.tailscale.ipn/.MainActivity " />
+    <item name="fillin" class=" com.termux/.app.TermuxActivity " />
+    <item name="fillin" class=" com.whatsapp/.Main " />
+    <item name="fillin" class=" com.x8bit.bitwarden/.MainActivity " />
+    <item name="fillin" class=" cz.albert.app/cz.creativedock.albert.MainActivity " />
+    <item name="fillin" class=" cz.dpp.praguepublictransport/.activities.GuideActivity " />
+    <item name="fillin" class=" cz.mafra.jizdnirady/.activity.SplashActivity " />
+    <item name="fillin" class=" cz.seznam.mapy/.FreemiumActivity " />
+    <item name="fillin" class=" cz.skolaonline.mobile/.MainActivity " />
+    <item name="fillin" class=" de.jeanlucmakiola.calendula/.CalendarNameAlias " />
+    <item name="fillin" class=" dev.dettmer.simplenotes/.ui.main.ComposeMainActivity " />
+    <item name="fillin" class=" dev.renkinProject.renkin/.MainActivity " />
+    <item name="fillin"
+        class=" dev.renkinProject.renkinpack.p2/dev.renkinProject.renkinpack.MainActivity " />
+    <item name="fillin"
+        class=" dev.renkinProject.renkinpack.p3/dev.renkinProject.renkinpack.MainActivity " />
+    <item name="fillin" class=" im.molly.app/org.thoughtcrime.securesms.RoutingActivity " />
+    <item name="fillin" class=" io.materialdesign.catalog/.main.MainActivity " />
+    <item name="fillin" class=" jp.ne.ibis.ibispaintx.app/.InitializeCheckActivity " />
+    <item name="fillin" class=" me.weishu.kernelsu/.ui.MainActivity " />
+    <item name="fillin" class=" me.zhanghai.android.files/.filelist.FileListActivity " />
+    <item name="fillin" class=" org.frknkrc44.hma_oss/.MainActivityLauncher " />
+    <item name="fillin" class=" org.lsposed.corepatch/.LauncherAlias " />
+    <item name="fillin" class=" org.mozilla.firefox/.App " />
+    <item name="fillin" class=" org.tasks/com.todoroo.astrid.activity.TaskListActivity " />
+    <item name="fillin" class=" org.telegram.messenger.web/org.telegram.messenger.DefaultIcon " />
+    <item name="fillin" class=" org.wikipedia/.DefaultIcon " />
+    <item name="fillin" class=" ru.scadwfql.rchgnysyz/.MainActivity1 " />
+    <item name="fillin" class=" su.ronicon/.MainActivity " />
 </appmap>

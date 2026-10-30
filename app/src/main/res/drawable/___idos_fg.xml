@@ -4,8 +4,3 @@
     android:src="@drawable/___idos"
     android:tint="@android:color/system_accent1_700"
     tools:targetApi="31" />
-</adaptive-icon>
-</adaptive-icon>
-    <foreground android:drawable="@drawable/___idos_fg_fg" />
-    <monochrome android:drawable="@drawable/___idos_fg_fg" />
-</adaptive-icon>

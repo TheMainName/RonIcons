@@ -15,15 +15,15 @@ cat << EOF > drawable.xml
 <category title="All" />
 EOF
 
-for s in $(ls "$src"/*.xml);
-do
-base=$(basename $s .xml)
+while IFS= read -r line || [[ -n "$line" ]]; do
+base=$(basename $line .xml)
 echo "<item>"$base"</item>" >> icon_pack.xml
 echo '<item drawable="'$base'" />' >> drawable.xml
-done
+done < names.txt
 
 echo  "</string-array>" >> icon_pack.xml
 echo "</resources>" >> icon_pack.xml
 echo "</resources>" >> drawable.xml
+
 
 
