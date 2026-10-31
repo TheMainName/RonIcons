@@ -141,15 +141,16 @@
     <item
         component=" dev.dettmer.simplenotes/.ui.main.ComposeMainActivity"
         drawable="notes"/>
+
+
     <item
         component=" dev.renkinProject.renkin/.MainActivity"
         drawable="iconpack"/>
     <item
-        component=" dev.renkinProject.renkinpack.p2/dev.renkinProject.renkinpack.MainActivity"
+        component=" dev.renkinProject.renkin/.MainActivity"
         drawable="iconpack"/>
-    <item
-        component=" dev.renkinProject.renkinpack.p3/dev.renkinProject.renkinpack.MainActivity"
-        drawable="iconpack"/>
+
+
     <item
         component=" im.molly.app/org.thoughtcrime.securesms.RoutingActivity"
         drawable="molly"/>

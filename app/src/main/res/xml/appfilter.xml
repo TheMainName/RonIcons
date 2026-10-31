@@ -1,192 +1,489 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-<item
-component=" com.android.settings/.Settings"
-drawable="settings"/>
-<item
-component=" com.android.vending/.AssetBrowserActivity"
-drawable="play_store"/>
-<item
-component=" com.google.android.GoogleCamera/com.android.camera.CameraLauncher"
-drawable="camera"/>
-<item
-component=" com.google.android.apps.messaging/.ui.ConversationListActivity"
-drawable="messages"/>
-<item
-component=" com.google.android.apps.photos/.home.HomeActivity"
-drawable="photos"/>
-<item
-component=" com.google.android.calculator/com.android.calculator2.Calculator"
-drawable="calculator"/>
-<item
-component=" com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
-drawable="contacts"/>
-<item
-component=" com.google.android.deskclock/com.android.deskclock.DeskClock"
-drawable="clock"/>
-<item
-component=" com.google.android.dialer/.extensions.GoogleDialtactsActivity"
-drawable="phone"/>
-<item
-component=" com.aurora.store/.ComposeActivity"
-drawable="aurora_store"/>
-<item
-component=" com.dot.gallery/.Launcher_Gallery_GalleryLogo"
-drawable="gallery"/>
-<item
-component=" com.wmods.wppenhacer/.activities.MainActivity"
-drawable="___wa_enhancer"/>
-<item
-component=" cz.csas.georgego/at.beeone.george.app.splashscreen.SplashScreenVariantDefault"
-drawable="george"/>
-<item
-component=" cz.tesco.clubcard/com.tesco.clubcard.activity.main.MainActivity"
-drawable="clubcard_tesco"/>
-<item
-component=" io.github.muntashirakon.AppManager/.main.SplashActivity"
-drawable="app_manager"/>
-<item
-component=" org.kustom.widget/.picker.WidgetPicker"
-drawable="kustom"/>
-<item
-component=" rk.android.app.pixelsearch/.activities.HomeActivity"
-drawable="pixel_search"/>
-<item
-component=" com.android.stk/.StkMain"
-drawable="___sim_manager"/>
-<item
-component=" ai.perplexity.app.android/.ui.main.MainActivity"
-drawable="perplexity"/>
-<item
-component=" app.alextran.immich/.MainActivity"
-drawable="immich"/>
-<item
-component=" at.bitfire.davdroid/.ui.AccountsActivity"
-drawable="___da__vx5"/>
-<item
-component=" com.bootiq2.gtsisic/app.futured.aliveapp.AppActivity"
-drawable="alive__app"/>
-<item
-component=" com.deepl.mobiletranslator/.MainActivity"
-drawable="deep__l"/>
-<item
-component=" com.discord/.main.MainDefault"
-drawable="discord"/>
-<item
-component=" com.drdisagree.pixellauncherenhanced/.ui.activities.SplashActivity"
-drawable="p__l__enhanced"/>
-<item
-component=" com.f0x1d.logfox/.presentation.ui.activity.MainActivity"
-drawable="log__fox"/>
-<item
-component=" com.imaginecurve.curve.prd/com.curve.startup.launch.LaunchActivity"
-drawable="TODO"/>
-<item
-component=" com.instagram.android/.activity.MainTabActivity"
-drawable="instagram"/>
-<item
-component=" com.lidl.eci.lidlplus/es.lidlplus.i18n.StandardLauncher"
-drawable="lidl_plus"/>
-<item
-component=" com.looker.droidify/.MainActivity"
-drawable="droidify"/>
-<item
-component=" com.microsoft.teams/com.microsoft.skype.teams.Launcher"
-drawable="teams"/>
-<item
-component=" com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"
-drawable="snapseed"/>
-<item
-component=" com.phonewalls.stockwallpapers/.SplashActivity"
-drawable="phone__walls"/>
-<item
-component=" com.readdle.spark/.app.MainActivity"
-drawable="spark"/>
-<item
-component=" com.richardluo.globalIconPack/.ui.MainActivity"
-drawable="global_icon_pack"/>
-<item
-component=" com.sameerasw.essentials/.MainActivity"
-drawable="mod"/>
-<item
-component=" com.tailscale.ipn/.MainActivity"
-drawable="tailscale"/>
-<item
-component=" com.termux/.app.TermuxActivity"
-drawable="termux"/>
-<item
-component=" com.whatsapp/.Main"
-drawable="whats__app"/>
-<item
-component=" com.x8bit.bitwarden/.MainActivity"
-drawable="bitwarden"/>
-<item
-component=" cz.albert.app/cz.creativedock.albert.MainActivity"
-drawable="muj_albert"/>
-<item
-component=" cz.dpp.praguepublictransport/.activities.GuideActivity"
-drawable="___pid_litacka"/>
-<item
-component=" cz.mafra.jizdnirady/.activity.SplashActivity"
-drawable="___idos"/>
-<item
-component=" cz.seznam.mapy/.FreemiumActivity"
-drawable="mapy"/>
-<item
-component=" cz.skolaonline.mobile/.MainActivity"
-drawable="skola__online"/>
-<item
-component=" de.jeanlucmakiola.calendula/.CalendarNameAlias"
-drawable="calendar"/>
-<item
-component=" dev.dettmer.simplenotes/.ui.main.ComposeMainActivity"
-drawable="notes"/>
-<item
-component=" dev.renkinProject.renkin/.MainActivity"
-drawable="iconpack"/>
-<item
-component=" dev.renkinProject.renkinpack.p2/dev.renkinProject.renkinpack.MainActivity"
-drawable="iconpack"/>
-<item
-component=" dev.renkinProject.renkinpack.p3/dev.renkinProject.renkinpack.MainActivity"
-drawable="iconpack"/>
-<item
-component=" im.molly.app/org.thoughtcrime.securesms.RoutingActivity"
-drawable="molly"/>
-<item
-component=" io.materialdesign.catalog/.main.MainActivity"
-drawable="material_components"/>
-<item
-component=" jp.ne.ibis.ibispaintx.app/.InitializeCheckActivity"
-drawable="ibis__paint_x"/>
-<item
-component=" me.weishu.kernelsu/.ui.MainActivity"
-drawable="kernel__s__u"/>
-<item
-component=" me.zhanghai.android.files/.filelist.FileListActivity"
-drawable="material_files"/>
-<item
-component=" org.frknkrc44.hma_oss/.MainActivityLauncher"
-drawable="mod"/>
-<item
-component=" org.lsposed.corepatch/.LauncherAlias"
-drawable="mod"/>
-<item
-component=" org.mozilla.firefox/.App"
-drawable="firefox"/>
-<item
-component=" org.tasks/com.todoroo.astrid.activity.TaskListActivity"
-drawable="tasks"/>
-<item
-component=" org.telegram.messenger.web/org.telegram.messenger.DefaultIcon"
-drawable="telegram"/>
-<item
-component=" org.wikipedia/.DefaultIcon"
-drawable="wikipedia"/>
-<item
-component=" ru.scadwfql.rchgnysyz/.MainActivity1"
-drawable="lck"/>
-<item
-component=" su.ronicon/.MainActivity"
-drawable="iconpack"/>
+    <item
+        component="ComponentInfo{com.android.settings/}"
+        drawable="settings" />
+    <item
+        component="ComponentInfo{com.android.settings/.Settings}"
+        drawable="settings" />
+
+
+    <item
+        component="ComponentInfo{com.android.vending/}"
+        drawable="play_store" />
+    <item
+        component="ComponentInfo{com.android.vending/.AssetBrowserActivity}"
+        drawable="play_store" />
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+
+
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/}"
+        drawable="messages" />
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/.ui.ConversationListActivity}"
+        drawable="messages" />
+
+
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/}"
+        drawable="photos" />
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/.home.HomeActivity}"
+        drawable="photos" />
+
+
+    <item
+        component="ComponentInfo{com.google.android.calculator/}"
+        drawable="calculator" />
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="calculator" />
+
+
+    <item
+        component="ComponentInfo{com.google.android.contacts/}"
+        drawable="contacts" />
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts" />
+
+
+    <item
+        component="ComponentInfo{com.google.android.deskclock/}"
+        drawable="clock" />
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock" />
+
+
+    <item
+        component="ComponentInfo{com.google.android.dialer/}"
+        drawable="phone" />
+    <item
+        component="ComponentInfo{com.google.android.dialer/.extensions.GoogleDialtactsActivity}"
+        drawable="phone" />
+
+
+    <item
+        component="ComponentInfo{com.aurora.store/}"
+        drawable="aurora_store" />
+    <item
+        component="ComponentInfo{com.aurora.store/.ComposeActivity}"
+        drawable="aurora_store" />
+
+
+    <item
+        component="ComponentInfo{com.dot.gallery/}"
+        drawable="gallery" />
+    <item
+        component="ComponentInfo{com.dot.gallery/.Launcher_Gallery_GalleryLogo}"
+        drawable="gallery" />
+
+
+    <item
+        component="ComponentInfo{com.wmods.wppenhacer/}"
+        drawable="___wa_enhancer" />
+    <item
+        component="ComponentInfo{com.wmods.wppenhacer/.activities.MainActivity}"
+        drawable="___wa_enhancer" />
+
+
+    <item
+        component="ComponentInfo{cz.csas.georgego/}"
+        drawable="george" />
+    <item
+        component="ComponentInfo{cz.csas.georgego/at.beeone.george.app.splashscreen.SplashScreenVariantDefault}"
+        drawable="george" />
+
+
+    <item
+        component="ComponentInfo{cz.tesco.clubcard/}"
+        drawable="clubcard_tesco" />
+    <item
+        component="ComponentInfo{cz.tesco.clubcard/com.tesco.clubcard.activity.main.MainActivity}"
+        drawable="clubcard_tesco" />
+
+    <item
+        component="ComponentInfo{io.github.muntashirakon.AppManager/}"
+        drawable="app_manager" />
+    <item
+        component="ComponentInfo{io.github.muntashirakon.AppManager/.main.SplashActivity}"
+        drawable="app_manager" />
+
+
+    <item
+        component="ComponentInfo{org.kustom.widget/}"
+        drawable="kustom" />
+    <item
+        component="ComponentInfo{org.kustom.widget/.picker.WidgetPicker}"
+        drawable="kustom" />
+
+
+    <item
+        component="ComponentInfo{rk.android.app.pixelsearch/}"
+        drawable="pixel_search" />
+    <item
+        component="ComponentInfo{rk.android.app.pixelsearch/.activities.HomeActivity}"
+        drawable="pixel_search" />
+
+
+    <item
+        component="ComponentInfo{com.android.stk/}"
+        drawable="___sim_manager" />
+    <item
+        component="ComponentInfo{com.android.stk/.StkMain}"
+        drawable="___sim_manager" />
+
+
+    <item
+        component="ComponentInfo{ai.perplexity.app.android/}"
+        drawable="perplexity" />
+    <item
+        component="ComponentInfo{ai.perplexity.app.android/.ui.main.MainActivity}"
+        drawable="perplexity" />
+
+
+    <item
+        component="ComponentInfo{app.alextran.immich/}"
+        drawable="immich" />
+    <item
+        component="ComponentInfo{app.alextran.immich/.MainActivity}"
+        drawable="immich" />
+
+
+    <item
+        component="ComponentInfo{at.bitfire.davdroid/}"
+        drawable="___da__vx5" />
+    <item
+        component="ComponentInfo{at.bitfire.davdroid/.ui.AccountsActivity}"
+        drawable="___da__vx5" />
+
+
+    <item
+        component="ComponentInfo{com.bootiq2.gtsisic/}"
+        drawable="alive__app" />
+    <item
+        component="ComponentInfo{com.bootiq2.gtsisic/app.futured.aliveapp.AppActivity}"
+        drawable="alive__app" />
+
+
+    <item
+        component="ComponentInfo{com.deepl.mobiletranslator/}"
+        drawable="deep__l" />
+    <item
+        component="ComponentInfo{com.deepl.mobiletranslator/.MainActivity}"
+        drawable="deep__l" />
+
+
+    <item
+        component="ComponentInfo{com.discord/}"
+        drawable="discord" />
+    <item
+        component="ComponentInfo{com.discord/.main.MainDefault}"
+        drawable="discord" />
+
+
+
+    <item
+        component="ComponentInfo{com.drdisagree.pixellauncherenhanced/}"
+        drawable="p__l__enhanced" />
+    <item
+        component="ComponentInfo{com.drdisagree.pixellauncherenhanced/.ui.activities.SplashActivity}"
+        drawable="p__l__enhanced" />
+
+
+    <item
+        component="ComponentInfo{com.f0x1d.logfox/}"
+        drawable="log__fox" />
+    <item
+        component="ComponentInfo{com.f0x1d.logfox/.presentation.ui.activity.MainActivity}"
+        drawable="log__fox" />
+
+
+    <item
+        component="ComponentInfo{com.imaginecurve.curve.prd/}"
+        drawable="curve" />
+    <item
+        component="ComponentInfo{com.imaginecurve.curve.prd/com.curve.startup.launch.LaunchActivity}"
+        drawable="curve" />
+
+
+    <item
+        component="ComponentInfo{com.instagram.android/}"
+        drawable="instagram" />
+    <item
+        component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}"
+        drawable="instagram" />
+
+
+    <item
+        component="ComponentInfo{com.lidl.eci.lidlplus/}"
+        drawable="lidl_plus" />
+    <item
+        component="ComponentInfo{com.lidl.eci.lidlplus/es.lidlplus.i18n.StandardLauncher}"
+        drawable="lidl_plus" />
+
+
+    <item
+        component="ComponentInfo{com.looker.droidify/}"
+        drawable="droidify" />
+    <item
+        component="ComponentInfo{com.looker.droidify/.MainActivity}"
+        drawable="droidify" />
+
+
+    <item
+        component="ComponentInfo{com.microsoft.teams/}"
+        drawable="teams" />
+    <item
+        component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}"
+        drawable="teams" />
+
+
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/}"
+        drawable="snapseed" />
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="snapseed" />
+
+
+    <item
+        component="ComponentInfo{com.phonewalls.stockwallpapers/}"
+        drawable="phone__walls" />
+    <item
+        component="ComponentInfo{com.phonewalls.stockwallpapers/.SplashActivity}"
+        drawable="phone__walls" />
+
+
+    <item
+        component="ComponentInfo{com.readdle.spark/}"
+        drawable="spark" />
+    <item
+        component="ComponentInfo{com.readdle.spark/.app.MainActivity}"
+        drawable="spark" />
+
+
+    <item
+        component="ComponentInfo{com.richardluo.globalIconPack/}"
+        drawable="global_icon_pack" />
+    <item
+        component="ComponentInfo{com.richardluo.globalIconPack/.ui.MainActivity}"
+        drawable="global_icon_pack" />
+
+
+    <item
+        component="ComponentInfo{com.sameerasw.essentials/}"
+        drawable="mod" />
+    <item
+        component="ComponentInfo{com.sameerasw.essentials/.MainActivity}"
+        drawable="mod" />
+
+
+    <item
+        component="ComponentInfo{com.tailscale.ipn/}"
+        drawable="tailscale" />
+    <item
+        component="ComponentInfo{com.tailscale.ipn/.MainActivity}"
+        drawable="tailscale" />
+
+
+    <item
+        component="ComponentInfo{com.termux/}"
+        drawable="termux" />
+    <item
+        component="ComponentInfo{com.termux/.app.TermuxActivity}"
+        drawable="termux" />
+
+
+    <item
+        component="ComponentInfo{com.whatsapp/}"
+        drawable="whats__app" />
+    <item
+        component="ComponentInfo{com.whatsapp/.Main}"
+        drawable="whats__app" />
+
+
+    <item
+        component="ComponentInfo{com.x8bit.bitwarden/}"
+        drawable="bitwarden" />
+    <item
+        component="ComponentInfo{com.x8bit.bitwarden/.MainActivity}"
+        drawable="bitwarden" />
+
+
+    <item
+        component="ComponentInfo{cz.albert.app/}"
+        drawable="muj_albert" />
+    <item
+        component="ComponentInfo{cz.albert.app/cz.creativedock.albert.MainActivity}"
+        drawable="muj_albert" />
+
+
+    <item
+        component="ComponentInfo{cz.dpp.praguepublictransport/}"
+        drawable="___pid_litacka" />
+    <item
+        component="ComponentInfo{cz.dpp.praguepublictransport/.activities.GuideActivity}"
+        drawable="___pid_litacka" />
+
+
+    <item
+        component="ComponentInfo{cz.mafra.jizdnirady/}"
+        drawable="___idos" />
+    <item
+        component="ComponentInfo{cz.mafra.jizdnirady/.activity.SplashActivity}"
+        drawable="___idos" />
+
+
+    <item
+        component="ComponentInfo{cz.seznam.mapy/}"
+        drawable="mapy" />
+    <item
+        component="ComponentInfo{cz.seznam.mapy/.FreemiumActivity}"
+        drawable="mapy" />
+
+
+    <item
+        component="ComponentInfo{cz.skolaonline.mobile/}"
+        drawable="skola__online" />
+    <item
+        component="ComponentInfo{cz.skolaonline.mobile/.MainActivity}"
+        drawable="skola__online" />
+
+
+    <item
+        component="ComponentInfo{de.jeanlucmakiola.calendula/}"
+        drawable="calendar" />
+    <item
+        component="ComponentInfo{de.jeanlucmakiola.calendula/.CalendarNameAlias}"
+        drawable="calendar" />
+
+
+    <item
+        component="ComponentInfo{dev.dettmer.simplenotes/}"
+        drawable="notes" />
+    <item
+        component="ComponentInfo{dev.dettmer.simplenotes/.ui.main.ComposeMainActivity}"
+        drawable="notes" />
+
+    <item
+        component="ComponentInfo{dev.renkinProject.renkin/}"
+        drawable="iconpack" />
+    <item
+        component="ComponentInfo{dev.renkinProject.renkin/.MainActivity}"
+        drawable="iconpack" />
+
+
+    <item
+        component="ComponentInfo{im.molly.app/}"
+        drawable="molly" />
+    <item
+        component="ComponentInfo{im.molly.app/org.thoughtcrime.securesms.RoutingActivity}"
+        drawable="molly" />
+
+
+    <item
+        component="ComponentInfo{io.materialdesign.catalog/}"
+        drawable="material_components" />
+    <item
+        component="ComponentInfo{io.materialdesign.catalog/.main.MainActivity}"
+        drawable="material_components" />
+
+
+    <item
+        component="ComponentInfo{jp.ne.ibis.ibispaintx.app/}"
+        drawable="ibis__paint_x" />
+    <item
+        component="ComponentInfo{jp.ne.ibis.ibispaintx.app/.InitializeCheckActivity}"
+        drawable="ibis__paint_x" />
+
+
+    <item
+        component="ComponentInfo{me.weishu.kernelsu/}"
+        drawable="kernel__s__u" />
+    <item
+        component="ComponentInfo{me.weishu.kernelsu/.ui.MainActivity}"
+        drawable="kernel__s__u" />
+
+
+    <item
+        component="ComponentInfo{me.zhanghai.android.files/}"
+        drawable="material_files" />
+    <item
+        component="ComponentInfo{me.zhanghai.android.files/.filelist.FileListActivity}"
+        drawable="material_files" />
+
+
+    <item
+        component="ComponentInfo{org.frknkrc44.hma_oss/}"
+        drawable="mod" />
+    <item
+        component="ComponentInfo{org.frknkrc44.hma_oss/.MainActivityLauncher}"
+        drawable="mod" />
+
+
+    <item
+        component="ComponentInfo{org.lsposed.corepatch/}"
+        drawable="mod" />
+    <item
+        component="ComponentInfo{org.lsposed.corepatch/.LauncherAlias}"
+        drawable="mod" />
+
+
+    <item
+        component="ComponentInfo{org.mozilla.firefox/}"
+        drawable="firefox" />
+    <item
+        component="ComponentInfo{org.mozilla.firefox/.App}"
+        drawable="firefox" />
+
+
+    <item
+        component="ComponentInfo{org.tasks/}"
+        drawable="tasks" />
+    <item
+        component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}"
+        drawable="tasks" />
+
+
+    <item
+        component="ComponentInfo{org.telegram.messenger.web/}"
+        drawable="telegram" />
+    <item
+        component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}"
+        drawable="telegram" />
+
+
+    <item
+        component="ComponentInfo{org.wikipedia/}"
+        drawable="wikipedia" />
+    <item
+        component="ComponentInfo{org.wikipedia/.DefaultIcon}"
+        drawable="wikipedia" />
+
+
+    <item
+        component="ComponentInfo{ru.scadwfql.rchgnysyz/}"
+        drawable="lck" />
+
+    <item
+        component="ComponentInfo{ru.scadwfql.rchgnysyz/.MainActivity1}"
+        drawable="lck" />
+
+
+
+    <item
+        component="ComponentInfo{su.ronicon/}"
+        drawable="iconpack" />
+    <item
+        component="ComponentInfo{su.ronicon/.MainActivity}"
+        drawable="iconpack" />
 </resources>

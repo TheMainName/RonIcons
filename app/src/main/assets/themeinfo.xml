@@ -7,6 +7,12 @@
     <themeName>Blueprint</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>
-    <themePreview img1="iconpack" />
-    <preview img1="iconpack" />
+    <themePreview img1="contacts" />
+    <preview img2="gallery" />
+    <preview img3="phone" />
+    <preview img4="settings" />
+    <preview img5="camera" />
+    <preview img6="firefox" />
+    <preview img7="droidify" />
+    <preview img8="kernel__s__u" />
 </themeInfo>

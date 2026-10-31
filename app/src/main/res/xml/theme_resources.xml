@@ -158,12 +158,6 @@
         name="dev.renkinProject.renkin/.MainActivity"
         image="iconpack"/>
     <AppIcon
-        name="dev.renkinProject.renkinpack.p2/dev.renkinProject.renkinpack.MainActivity"
-        image="iconpack"/>
-    <AppIcon
-        name="dev.renkinProject.renkinpack.p3/dev.renkinProject.renkinpack.MainActivity"
-        image="iconpack"/>
-    <AppIcon
         name="im.molly.app/org.thoughtcrime.securesms.RoutingActivity"
         image="molly"/>
     <AppIcon
